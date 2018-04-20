@@ -19,5 +19,6 @@ namespace TestProject
         public const string Lion = "Lion";
         public const string Bear = "Bear";
         public const string Whale = "Whale";
+        public const string Gruffalon = "Gruffalon";
     }
 }
