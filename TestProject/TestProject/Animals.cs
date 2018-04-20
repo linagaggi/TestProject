@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TestProject
+{
+    public static class Animals
+    {
+        public const string Dog = "Dog";
+        public const string Cat = "Cat";
+        public const string Bird = "Bird";
+        public const string Fish = "Fish";
+    }
+}
