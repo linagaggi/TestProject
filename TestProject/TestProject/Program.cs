@@ -36,6 +36,9 @@ namespace TestProject
                 case Animals.Frog:
                     Console.WriteLine("You like Frogs");
                     break;
+                case Animals.Monkey:
+                    Console.WriteLine("You like Monkeys");
+                    break;
                 default:
                     Console.WriteLine("You don't like animals");
                     break;
