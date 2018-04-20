@@ -12,5 +12,7 @@ namespace TestProject
         public const string Cat = "Cat";
         public const string Bird = "Bird";
         public const string Fish = "Fish";
+        public const string Elephant = "Elephant";
+        public const string Giraff = "Giraff";
     }
 }
